@@ -1,0 +1,6 @@
+# Whitelist: only deploy the built site
+*
+!.gitignore
+!.github
+!.github/**
+!index.html
